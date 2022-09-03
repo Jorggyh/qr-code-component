@@ -12,7 +12,6 @@ the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.
 - [My process](#my-process)
     - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,7 +22,7 @@ the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.
 ### Links
 
 - Solution
-  URL: [https://www.frontendmentor.io/solutions/html-and-css-only-X53JL19OSq](https://www.frontendmentor.io/solutions/html-and-css-only-X53JL19OSq)
+  URL: [https://www.frontendmentor.io/solutions/good-to-start-gJV5Ews-Kd](https://www.frontendmentor.io/solutions/good-to-start-gJV5Ews-Kd)
 - Live Site URL: [https://jorggyh.github.io/qr-code-component/](https://jorggyh.github.io/qr-code-component/)
 
 ### Built with
